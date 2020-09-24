@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/static/js/main.81754208.chunk.js",
+    "main.js.map": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/static/js/main.81754208.chunk.js.map",
+    "runtime-main.js": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/static/js/runtime-main.1325615e.js",
+    "runtime-main.js.map": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/static/js/runtime-main.1325615e.js.map",
+    "static/js/2.e4aab4f1.chunk.js": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/static/js/2.e4aab4f1.chunk.js",
+    "static/js/2.e4aab4f1.chunk.js.map": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/static/js/2.e4aab4f1.chunk.js.map",
+    "index.html": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/index.html",
+    "precache-manifest.2868cb8c9f511dd7d95f69924e97a45b.js": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/precache-manifest.2868cb8c9f511dd7d95f69924e97a45b.js",
+    "service-worker.js": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e4aab4f1.chunk.js.LICENSE.txt": "/AbhiramMachiraju/REACT-REDUX-FIRSTDEMO.git/static/js/2.e4aab4f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1325615e.js",
+    "static/js/2.e4aab4f1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.81754208.chunk.js"
+  ]
+}
